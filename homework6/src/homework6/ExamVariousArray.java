@@ -34,6 +34,9 @@ public class ExamVariousArray {
 			else if (cho.equals("5")) {
 				new OnlyNumber().input();
 			}
+			else if(cho.equals("6")){
+				System.exit(0);
+			}
 		}
 
 	}
